@@ -4,14 +4,15 @@
     <id>qap</id>
     <version>8.5.3</version>
     <owners>Nicola Farina</owners>
-    <title>Quick Access Popup (Install)</title>
-    <authors>Jean LaLonde</authors>
-    <projectUrl>https://www.quickaccesspopup.com</projectUrl>
-    <iconUrl>http://www.quickaccesspopup.com/wp-content/uploads/QAP-v8-Logo-150x105.png</iconUrl>
-    <copyright>Copyright © 2017 Jean LaLonde</copyright>
+    <title>Quick Access Popup</title>
+    <authors>Jean Lalonde</authors>
+    <projectUrl>http://www.quickaccesspopup.com</projectUrl>
+    <iconUrl>https://github.com/nicolafarina/chocolatey-packages/blob/master/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <copyright>Copyright © 2017 Jean Lalonde</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/JnLlnd/QuickAccessPopup</projectSourceUrl>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/qap</packageSourceUrl>
     <docsUrl>http://www.quickaccesspopup.com/frequently-asked-questions/</docsUrl>
     <tags>quickaccesspopup folderswitcher launcher filemanager quickactions</tags>
     <summary>Quick Access Popup is a multi-purpose launcher and folder switcher!</summary>
