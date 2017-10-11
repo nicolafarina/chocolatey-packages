@@ -7,7 +7,7 @@
     <title>Quick Access Popup</title>
     <authors>Jean Lalonde</authors>
     <projectUrl>http://www.quickaccesspopup.com</projectUrl>
-    <iconUrl>https://github.com/nicolafarina/chocolatey-packages/blob/master/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/nicolafarina/chocolatey-packages/6d4b8f5c/qap/QAP-v8-Logo-150x105.png</iconUrl>
     <copyright>Copyright © 2017 Jean Lalonde</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
