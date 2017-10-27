@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://www.quickaccesspopup.com/download/quickaccesspopup-setup.exe'
+$url        = 'http://www.quickaccesspopup.com/download/archives/quickaccesspopup-setup-8_5_3.exe'
 $url64      = $url
 
 $packageArgs = @{
