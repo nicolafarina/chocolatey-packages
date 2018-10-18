@@ -6,18 +6,18 @@
     <owners>Nicola Farina</owners>
     <title>Quick Access Popup</title>
     <authors>Jean Lalonde</authors>
-    <projectUrl>http://www.quickaccesspopup.com</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/nicolafarina/chocolatey-packages/6d4b8f5c/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <projectUrl>https://www.quickaccesspopup.com</projectUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
     <copyright>Copyright © Jean Lalonde</copyright>
-    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <licenseUrl>https://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/JnLlnd/QuickAccessPopup</projectSourceUrl>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/qap</packageSourceUrl>
-    <docsUrl>http://www.quickaccesspopup.com/frequently-asked-questions/</docsUrl>
-    <tags>quickaccesspopup folderswitcher launcher filemanager quickactions</tags>
+    <docsUrl>https://www.quickaccesspopup.com/frequently-asked-questions/</docsUrl>
+    <tags>qap quickaccesspopup folderswitcher launcher filemanager quickactions</tags>
     <summary>Quick Access Popup is a multi-purpose launcher and folder switcher!</summary>
     <description>Quick Access Popup is a multi-purpose launcher and folder switcher! It creates a customizable popup with favorites folders/documents paths and various actions to speed up your work. Freeware for Windows. Quick Access Popup was designed for all international versions of Windows 7, Windows 8/8.1 and Windows 10, both client and server versions, with Explorer windows, File Dialog Boxes (Open, Save, etc.*), Console Window (CMD command prompt) and many popular alternative file managers.</description>
-    <releaseNotes>http://www.quickaccesspopup.com/change-log/</releaseNotes>  
+    <releaseNotes>https://www.quickaccesspopup.com/change-log/</releaseNotes>  
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
