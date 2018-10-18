@@ -7,7 +7,7 @@
     <title>Comfort Clipboard Pro</title>
     <authors>Comfort Software Group</authors>
     <projectUrl>https://www.comfort-software.com/clipboard-manager/</projectUrl>
-    <iconUrl>https://cdn.rawgit.com/nicolafarina/chocolatey-packages/6d4b8f5c/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/ff8832ca/comfortclipboardpro/CC-Icon-256x256.png</iconUrl>
     <copyright>Copyright © Comfort Software Group</copyright>
     <licenseUrl>https://www.comfort-software.com/en/clipboard-manager/license-agreement/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>

@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>qap</id>
-    <version>8.5.3.20171027</version>
+    <version>9.2.0.1</version>
     <owners>Nicola Farina</owners>
     <title>Quick Access Popup</title>
     <authors>Jean Lalonde</authors>
     <projectUrl>http://www.quickaccesspopup.com</projectUrl>
     <iconUrl>https://cdn.rawgit.com/nicolafarina/chocolatey-packages/6d4b8f5c/qap/QAP-v8-Logo-150x105.png</iconUrl>
-    <copyright>Copyright © 2017 Jean Lalonde</copyright>
+    <copyright>Copyright © Jean Lalonde</copyright>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/JnLlnd/QuickAccessPopup</projectSourceUrl>
