@@ -13,9 +13,14 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/comfortclipboardpro</packageSourceUrl>
     <docsUrl>https://www.comfort-software.com/clipboard/help/</docsUrl>
-    <tags>comfortclipboardpro clipboardmanager clipboard</tags>
+    <tags>comfortclipboardpro comfortclipboard clipboardmanager clipboard</tags>
     <summary>Comfort Clipboard Pro is a clipboard manager.</summary>
-    <description>Comfort Clipboard Pro keeps the clipboard history that you can use to paste any selected fragment again. Advanced features include automatically saving the clipboard fragments to the hard disk, pasting a fragment in any available format, previewing saved fragments in a comfortable window, and displaying additional information about saved fragments.</description>
+    <description>Comfort Clipboard Pro keeps the clipboard history that you can use to paste any selected fragment again. Advanced features include automatically saving the clipboard fragments to the hard disk, pasting a fragment in any available format, previewing saved fragments in a comfortable window, and displaying additional information about saved fragments.
+	
+	### New versions possible hash error (no panic) ###
+**Even if asked, authors do not provide specific URLs for each version, so the generic one is used for all future releases. Please be patience if you get hash check failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible (but you can advise me in comments section). Thank you.**
+
+</description>
     <releaseNotes>https://www.comfort-software.com/clipboard-manager/version-history/</releaseNotes>  
   </metadata>
   <files>
