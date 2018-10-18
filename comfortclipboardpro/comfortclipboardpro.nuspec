@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>comfortclipboardpro</id>
+    <version>9.0.4</version>
+    <owners>Nicola Farina</owners>
+    <title>Comfort Clipboard Pro</title>
+    <authors>Comfort Software Group</authors>
+    <projectUrl>https://www.comfort-software.com/clipboard-manager/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/nicolafarina/chocolatey-packages/6d4b8f5c/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <copyright>Copyright © Comfort Software Group</copyright>
+    <licenseUrl>https://www.comfort-software.com/en/clipboard-manager/license-agreement/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/comfortclipboardpro</packageSourceUrl>
+    <docsUrl>https://www.comfort-software.com/clipboard/help/</docsUrl>
+    <tags>comfortclipboardpro clipboardmanager clipboard</tags>
+    <summary>Comfort Clipboard Pro is a clipboard manager.</summary>
+    <description>Comfort Clipboard Pro keeps the clipboard history that you can use to paste any selected fragment again. Advanced features include automatically saving the clipboard fragments to the hard disk, pasting a fragment in any available format, previewing saved fragments in a comfortable window, and displaying additional information about saved fragments.</description>
+    <releaseNotes>https://www.comfort-software.com/clipboard-manager/version-history/</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
