@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>directoryopus</id>
+    <version>12.10</version>
+    <owners>Nicola Farina</owners>
+    <title>Directory Opus</title>
+    <authors>GPSoftware</authors>
+    <projectUrl>https://www.gpsoft.com.au/</projectUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <copyright>Copyright © Jonathan Potter & Dr Greg Perry</copyright>
+    <licenseUrl>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Licence.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/directoryopus</packageSourceUrl>
+    <docsUrl>https://www.gpsoft.com.au/help/opus12/index.html</docsUrl>
+    <tags>qap quickaccesspopup folderswitcher launcher filemanager quickactions</tags>
+    <summary>Directory Opus is an advanced file manager for Windows!</summary>
+    <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.</description>
+    <releaseNotes>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Directory_Opus_12.htm</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
