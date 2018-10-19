@@ -19,9 +19,9 @@
 	
 	![Comfort Clipboard Pro](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/cca9d846/comfortclipboardpro/screenshot_01.png)
 	
-	[More screenshots](https://www.comfort-software.com/clipboard-manager/).
+	[More screenshots](https://www.comfort-software.com/clipboard-manager/)
 	
-	### New versions possible hash error (no panic)
+#### New versions possible hash error (no panic)
 **Even if asked, authors do not provide specific URLs for each version, so the generic one is used for all future releases. Please be patience if you get hash check failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible (but you can advise me in comments section). Thank you.**
 
 </description>
