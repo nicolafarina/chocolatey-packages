@@ -15,7 +15,12 @@
     <docsUrl>https://www.gpsoft.com.au/help/opus12/index.html</docsUrl>
     <tags>directoryopus dopus directory filemanager file explorer</tags>
     <summary>Directory Opus is an advanced file manager for Windows!</summary>
-    <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.</description>
+    <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.
+	
+	![Directory Opus](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/d4b2737e/qap/screenshot_01.png)
+	
+	[More screenshots](https://www.gpsoft.com.au/program/screenshots.html)
+	</description>
     <releaseNotes>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Directory_Opus_12.htm</releaseNotes>  
   </metadata>
   <files>

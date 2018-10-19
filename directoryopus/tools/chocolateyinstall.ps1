@@ -19,7 +19,7 @@ $packageArgs = @{
   checksumType64= 'md5'
 
   validExitCodes= @(0, 3010, 1641)
-  silentArgs   = '/s /f1C:\ProgramData\chocolatey\lib\directoryopus\tools\install.iss'
+  silentArgs   = "/s /f1${toolsDir}\install.iss"
 }
 
 Install-ChocolateyPackage @packageArgs
