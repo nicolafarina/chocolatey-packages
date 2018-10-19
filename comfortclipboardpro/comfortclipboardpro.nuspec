@@ -15,7 +15,11 @@
     <docsUrl>https://www.comfort-software.com/clipboard/help/</docsUrl>
     <tags>comfortclipboardpro comfortclipboard clipboardmanager clipboard</tags>
     <summary>Comfort Clipboard Pro is a clipboard manager.</summary>
-    <description>Comfort Clipboard Pro keeps the clipboard history that you can use to paste any selected fragment again. Advanced features include automatically saving the clipboard fragments to the hard disk, pasting a fragment in any available format, previewing saved fragments in a comfortable window, and displaying additional information about saved fragments.
+    <description>Comfort Clipboard Pro keeps the clipboard history that you can use to paste any selected fragment again. Advanced features include several actions with fragments: automatically saving, pasting in any available format, previewing in a comfortable window (images too) and displaying additional informations.
+	
+	![Comfort Clipboard Pro](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/cca9d846/comfortclipboardpro/screenshot_01.png)
+	
+	[More screenshots](https://www.comfort-software.com/clipboard-manager/).
 	
 	### New versions possible hash error (no panic)
 **Even if asked, authors do not provide specific URLs for each version, so the generic one is used for all future releases. Please be patience if you get hash check failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible (but you can advise me in comments section). Thank you.**
