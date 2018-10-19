@@ -7,13 +7,13 @@
     <title>Directory Opus</title>
     <authors>GPSoftware</authors>
     <projectUrl>https://www.gpsoft.com.au/</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
-    <copyright>Copyright © Jonathan Potter & Dr Greg Perry</copyright>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/683a9100/directoryopus/DOPUS-Logo-256x256.png</iconUrl>
+    <copyright>Copyright © Jonathan Potter and Dr Greg Perry</copyright>
     <licenseUrl>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Licence.htm</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/directoryopus</packageSourceUrl>
     <docsUrl>https://www.gpsoft.com.au/help/opus12/index.html</docsUrl>
-    <tags>qap quickaccesspopup folderswitcher launcher filemanager quickactions</tags>
+    <tags>directoryopus dopus directory filemanager file explorer</tags>
     <summary>Directory Opus is an advanced file manager for Windows!</summary>
     <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.</description>
     <releaseNotes>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Directory_Opus_12.htm</releaseNotes>  

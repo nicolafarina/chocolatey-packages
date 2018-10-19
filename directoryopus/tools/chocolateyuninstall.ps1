@@ -1,0 +1,1 @@
+﻿Uninstall-ChocolateyPackage -PackageName $env:ChocolateyPackageName -FileType 'EXE' -Silent ' /s /f1C:\uninstall.iss' -File (Get-UninstallRegistryKey -SoftwareName '*Directory Opus*').UninstallString.Replace('"','') 
