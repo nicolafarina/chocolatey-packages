@@ -1,9 +1,10 @@
 ﻿$ErrorActionPreference = 'Stop';
+$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   softwareName  = '*Directory Opus*'
   fileType      = 'EXE'
-  silentArgs    = " -removeonly /s /f1${toolsDir}\uninstall.iss"
+  silentArgs    = "-removeonly /s /f1${toolsDir}\uninstall.iss"
   validExitCodes= @(0, 3010, 1641)
 }
 
