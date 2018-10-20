@@ -7,7 +7,7 @@
     <title>Wavebox</title>
     <authors>Bookry Ltd.</authors>
     <projectUrl>https://wavebox.io</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/929c3f98/wavebox/Wavebox-Logo-150x105.png</iconUrl>
     <copyright>Copyright © Bookry Ltd.</copyright>
     <licenseUrl>https://wavebox.io/eula/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -18,12 +18,12 @@
     <summary>A cloud apps aggregator</summary>
     <description>Unlike browser tabs, which work independently, Wavebox brings everything together as a single suite of web apps. For example, you’ll get notified on anything new across all your apps without having to check each tabs individually. You’ll also find it easier maintain context across workflows and stay focused.
 
-*Open all web apps in just one click.
-*Everything tidy and all in one place.
-*Stay focused within the desktop environment.
-*Monitor app usage across multiple accounts.
+* Open all web apps in just one click.
+* Everything tidy and all in one place.
+* Stay focused within the desktop environment.
+* Monitor app usage across multiple accounts.
 	
-	![Wavebox screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/d4b2737e/qap/screenshot_01.png)
+	![Wavebox screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/929c3f98/wavebox/screenshot_01.png)
 	
 	[More screenshots](https://wavebox.io/why-wavebox/)
 	</description>
