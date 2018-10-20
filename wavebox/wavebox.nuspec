@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>wavebox</id>
+    <version>4.4.0</version>
+    <owners>Nicola Farina</owners>
+    <title>Wavebox</title>
+    <authors>Bookry Ltd.</authors>
+    <projectUrl>https://wavebox.io</projectUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <copyright>Copyright © Bookry Ltd.</copyright>
+    <licenseUrl>https://wavebox.io/eula/</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/wavebox/waveboxapp</projectSourceUrl>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/wavebox</packageSourceUrl>
+    <docsUrl>https://wavebox.io/support</docsUrl>
+    <tags>wavebox multi webapp chat client messenger whatsapp facebook skype gmail outlook drive office365</tags>
+    <summary>A cloud apps aggregator</summary>
+    <description>Unlike browser tabs, which work independently, Wavebox brings everything together as a single suite of web apps. For example, you’ll get notified on anything new across all your apps without having to check each tabs individually. You’ll also find it easier maintain context across workflows and stay focused.
+
+*Open all web apps in just one click.
+*Everything tidy and all in one place.
+*Stay focused within the desktop environment.
+*Monitor app usage across multiple accounts.
+	
+	![Wavebox screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/d4b2737e/qap/screenshot_01.png)
+	
+	[More screenshots](https://wavebox.io/why-wavebox/)
+	</description>
+    <releaseNotes>https://github.com/wavebox/waveboxapp/releases</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
