@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>pingmonitorfree</id>
+    <version>6.2.1</version>
+    <owners>Nicola Farina</owners>
+    <title>EMCO Ping Monitor Free</title>
+    <authors>EMCO Software</authors>
+    <projectUrl>https://emcosoftware.com/ping-monitor</projectUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <copyright>Copyright © EMCO Software</copyright>
+    <licenseUrl>https://emcosoftware.com/purchase/licensing#licenses=license-for-freeware-products</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/pingmonitorfree</packageSourceUrl>
+    <docsUrl>https://emcosoftware.com/ping-monitor/doc</docsUrl>
+    <tags>pingmonitorfree pingmonitor ping monitor</tags>
+    <summary>Network Connection State Monitoring Tool (free for 5 hosts)</summary>
+    <description>A robust ping monitoring tool for automatic checking connection to network hosts. By making regular pings it monitors network connections and notifies you about detected ups/downs. EMCO Ping Monitor also provides connection statistics info, including uptime, outages, failed pings, etc. You can easily extend functionality and configure EMCO Ping Monitor to execute custom commands or launch applications when connections are lost or restored.
+	
+	![EMCO Ping Monitor Free screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/d4b2737e/qap/screenshot_01.png)
+	
+	[More screenshots](https://emcosoftware.com/ping-monitor/screenshots)
+		
+###New versions possible checksums error (no panic)
+**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patience if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
+</description>
+    <releaseNotes>https://emcosoftware.com/ping-monitor/whats-new</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
