@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>permissionsreporter</id>
+    <version>2.8.198.0</version>
+    <owners>Nicola Farina</owners>
+    <title>Permissions Reporter</title>
+    <authors>Key Metric Software, LLC.</authors>
+    <projectUrl>https://www.permissionsreporter.com</projectUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/297f0f4c/comfortclipboardpro/CC-Icon-256x256.png</iconUrl>
+    <copyright>Copyright © Key Metric Software, LLC.</copyright>
+    <licenseUrl>https://www.permissionsreporter.com/order/faq</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/comfortclipboardpro</packageSourceUrl>
+    <docsUrl>https://www.permissionsreporter.com/support</docsUrl>
+    <tags>comfortclipboardpro comfortclipboard clipboardmanager clipboard manager</tags>
+    <summary>The NTFS permissions analyzer for Windows</summary>
+    <description>ystem administrators are constantly being asked to audit user permissions for specific files and folders. This is often a time-consuming task, with multiple layers of NTFS permissions and repeated adjustments over time creating a security labyrinth.
+	
+	You need a visual, interactive software tool to help you manage file system permissions. You need Permissions Reporter - the ultimate network-enabled NTFS permissions reporter for Windows. It allows you to validate the security posture of entire file systems quickly and efficiently. All with multiple export formats, command-line support, built-in scheduling, advanced filtering, and much more.
+	
+	![Permissions Reporter screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/cca9d846/comfortclipboardpro/screenshot_01.png)
+	
+	[More screenshots](https://www.permissionsreporter.com/screens)
+	
+###New versions possible checksums error (no panic)
+**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patience if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
+</description>
+    <releaseNotes>https://www.permissionsreporter.com/support/releasenotes</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
