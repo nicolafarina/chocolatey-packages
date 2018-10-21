@@ -7,7 +7,7 @@
     <title>Permissions Reporter</title>
     <authors>Key Metric Software, LLC.</authors>
     <projectUrl>https://www.permissionsreporter.com</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/297f0f4c/comfortclipboardpro/CC-Icon-256x256.png</iconUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/e3aed681/permissionsreporter/PM-Icon-256x256.png</iconUrl>
     <copyright>Copyright © Key Metric Software, LLC.</copyright>
     <licenseUrl>https://www.permissionsreporter.com/order/faq</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -19,7 +19,7 @@
 	
 	You need a visual, interactive software tool to help you manage file system permissions. You need Permissions Reporter - the ultimate network-enabled NTFS permissions reporter for Windows. It allows you to validate the security posture of entire file systems quickly and efficiently. All with multiple export formats, command-line support, built-in scheduling, advanced filtering, and much more.
 	
-	![Permissions Reporter screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/cca9d846/comfortclipboardpro/screenshot_01.png)
+	![Permissions Reporter screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/e3aed681/permissionsreporter/screenshot_01.png)
 	
 	[More screenshots](https://www.permissionsreporter.com/screens)
 	

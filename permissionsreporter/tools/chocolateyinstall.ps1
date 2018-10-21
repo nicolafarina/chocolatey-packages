@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://www.comfort-software.com/download/cc_setup.exe'
+$url        = 'https://s3.amazonaws.com/KeyMetricSoft/Permissions+Reporter/pm-setup.exe'
 $url64      = $url
 
 $packageArgs = @{
@@ -11,15 +11,15 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
 
-  softwareName  = 'Comfort Clipboard Pro'
+  softwareName  = 'Permissions Reporter'
 
-  checksum      = '3c5636051025dfc9f5e2540699da5f9c'
+  checksum      = 'e11b3b7d4caf80bfa9f88c1483742be0'
   checksumType  = 'md5'
-  checksum64    = '3c5636051025dfc9f5e2540699da5f9c'
+  checksum64    = 'e11b3b7d4caf80bfa9f88c1483742be0'
   checksumType64= 'md5'
 
   validExitCodes= @(0, 3010, 1641)
-  silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
+  silentArgs   = '/qn /quiet'
 }
 
 Install-ChocolateyPackage @packageArgs
