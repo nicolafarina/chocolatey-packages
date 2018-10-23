@@ -21,8 +21,8 @@
 	
 	[More screenshots](https://emcosoftware.com/ping-monitor/screenshots)
 		
-###New versions possible checksums error (no panic)
-**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
+	###New versions possible checksums error (no panic)
+	**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 </description>
     <releaseNotes>https://emcosoftware.com/ping-monitor/whats-new</releaseNotes>  
   </metadata>
