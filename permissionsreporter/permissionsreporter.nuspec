@@ -11,11 +11,11 @@
     <copyright>Copyright © Key Metric Software, LLC.</copyright>
     <licenseUrl>https://www.permissionsreporter.com/order/faq</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/comfortclipboardpro</packageSourceUrl>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/permissionsreporter</packageSourceUrl>
     <docsUrl>https://www.permissionsreporter.com/support</docsUrl>
-    <tags>comfortclipboardpro comfortclipboard clipboardmanager clipboard manager</tags>
+    <tags>permissionsreporter permissions directory file filesystem system ntfs acl analyzer report reporter</tags>
     <summary>The NTFS permissions analyzer for Windows</summary>
-    <description>ystem administrators are constantly being asked to audit user permissions for specific files and folders. This is often a time-consuming task, with multiple layers of NTFS permissions and repeated adjustments over time creating a security labyrinth.
+    <description>System administrators are constantly being asked to audit user permissions for specific files and folders. This is often a time-consuming task, with multiple layers of NTFS permissions and repeated adjustments over time creating a security labyrinth.
 	
 	You need a visual, interactive software tool to help you manage file system permissions. You need Permissions Reporter - the ultimate network-enabled NTFS permissions reporter for Windows. It allows you to validate the security posture of entire file systems quickly and efficiently. All with multiple export formats, command-line support, built-in scheduling, advanced filtering, and much more.
 	

@@ -13,13 +13,18 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/directoryopus</packageSourceUrl>
     <docsUrl>https://www.gpsoft.com.au/help/opus12/index.html</docsUrl>
-    <tags>directoryopus dopus directory opus filemanager fileexplorer file explorer manager</tags>
+    <tags>directoryopus dopus directory opus filemanager fileexplorer file explorer manager trial</tags>
     <summary>Directory Opus is an advanced file manager for Windows!</summary>
     <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.
 	
 	![Directory Opus](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/8b7d71b9/directoryopus/screenshot_01.png)
 	
 	[More screenshots](https://www.gpsoft.com.au/program/screenshots.html)
+	
+	###Commercial software
+	Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
+	You can [buy here](https://www.gpsoft.com.au/order_intro.html).
+
 	</description>
     <releaseNotes>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Directory_Opus_12.htm</releaseNotes>  
   </metadata>
