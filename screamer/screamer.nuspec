@@ -7,7 +7,7 @@
     <title>Screamer Radio</title>
     <authors>Steamcore Software Solutions</authors>
     <projectUrl>https://www.screamer-radio.com</projectUrl>
-    <iconUrl>https://github.com/nicolafarina/chocolatey-packages/blob/master/screamer/SR-Logo-229x229.png</iconUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/a1b663a4/screamer/SR-Logo-229x229.png</iconUrl>
     <copyright>Copyright © Steamcore Software Solutions</copyright>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/screamer</packageSourceUrl>
     <docsUrl>https://www.screamer-radio.com/features/</docsUrl>
@@ -20,7 +20,7 @@
 	* Set sleep timer, relax
 	* Absolutely free
 	
-	![Screamer Radio screenshot](https://github.com/nicolafarina/chocolatey-packages/blob/master/screamer/screenshot_01.png)
+	![Screamer Radio screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/a1b663a4/screamer/screenshot_01.png)
 	
 	[More screenshots](https://www.screamer-radio.com/)
 	
