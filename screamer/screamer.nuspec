@@ -20,11 +20,11 @@
 	* Set sleep timer, relax
 	* Absolutely free
 	
-	![Screamer Radio screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/a1b663a4/screamer/screenshot_01.png)
+	![Screamer Radio screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/6c2f7124/screamer/screenshot_01.jpg)
 	
 	[More screenshots](https://www.screamer-radio.com/)
-	
-	###New versions possible checksums error (no panic)
+
+	### New versions possible checksums error (no panic)
 	**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 	</description>
     <releaseNotes>https://www.screamer-radio.com/releasenotes/stable/</releaseNotes>  
