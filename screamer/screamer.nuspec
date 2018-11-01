@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>screamer</id>
+    <version>2018.09.23</version>
+    <owners>Nicola Farina</owners>
+    <title>Screamer Radio</title>
+    <authors>Steamcore Software Solutions</authors>
+    <projectUrl>https://www.screamer-radio.com</projectUrl>
+    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/9354a6fb/qap/QAP-v8-Logo-150x105.png</iconUrl>
+    <copyright>Copyright © Steamcore Software Solutions</copyright>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/qap</packageSourceUrl>
+    <docsUrl>https://www.screamer-radio.com/features/</docsUrl>
+    <tags>screamer radio stream player internet</tags>
+    <summary>Listen to Internet radio</summary>
+    <description>Listen to Internet radio: select, connect, and enjoy!
+* Select from thousands of radio stations
+* Search by name, genre or country
+* Star your favorites
+* Set sleep timer, relax
+* Absolutely free
+	
+	![Screamer Radio screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/d4b2737e/qap/screenshot_01.png)
+	
+	[More screenshots](https://www.screamer-radio.com/)
+	</description>
+    <releaseNotes>https://www.screamer-radio.com/releasenotes/stable/</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
