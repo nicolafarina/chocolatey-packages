@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>comfortclipboardpro</id>
-    <version>9.0.420181019</version>
+    <version>9.1.0.20190603</version>
     <owners>Nicola Farina</owners>
     <title>Comfort Clipboard Pro</title>
     <authors>Comfort Software Group</authors>
@@ -17,16 +17,16 @@
     <summary>Comfort Clipboard Pro is a clipboard manager.</summary>
     <description>Comfort Clipboard Pro keeps the clipboard history that you can use to paste any selected fragment again. Advanced features include several actions with fragments: automatically saving, pasting in any available format, previewing in a comfortable window (images too) and displaying additional informations.
 	
-	![Comfort Clipboard Pro](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/cca9d846/comfortclipboardpro/screenshot_01.png)
+![Comfort Clipboard Pro](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/cca9d846/comfortclipboardpro/screenshot_01.png)
 	
-	[More screenshots](https://www.comfort-software.com/clipboard-manager/)
+[More screenshots](https://www.comfort-software.com/clipboard-manager/)
 	
-	###Commercial software
-	Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
-	You can [buy here](https://www.comfort-software.com/en/clipboard-manager/).
+###Commercial software
+Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
+You can [buy here](https://www.comfort-software.com/en/clipboard-manager/).
 
-	###New versions possible checksums error (no panic)
-	**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
+###New versions possible checksums error (no panic)
+**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 	</description>
     <releaseNotes>https://www.comfort-software.com/clipboard-manager/version-history/</releaseNotes>  
   </metadata>

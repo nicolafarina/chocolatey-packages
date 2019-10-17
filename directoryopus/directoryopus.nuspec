@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>directoryopus</id>
-    <version>12.10</version>
+    <version>12.17</version>
     <owners>Nicola Farina</owners>
     <title>Directory Opus</title>
     <authors>GPSoftware</authors>
@@ -17,16 +17,16 @@
     <summary>Directory Opus is an advanced file manager for Windows!</summary>
     <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.
 	
-	![Directory Opus](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/8b7d71b9/directoryopus/screenshot_01.png)
+![Directory Opus](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/8b7d71b9/directoryopus/screenshot_01.png)
 	
-	[More screenshots](https://www.gpsoft.com.au/program/screenshots.html)
+[More screenshots](https://www.gpsoft.com.au/program/screenshots.html)
 	
-	###Commercial software
-	Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
-	You can [buy here](https://www.gpsoft.com.au/order_intro.html).
+###Commercial software
+Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
+You can [buy here](https://www.gpsoft.com.au/order_intro.html).
 		
-	###New versions possible checksums error (no panic)
-	**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
+###New versions possible checksums error (no panic)
+**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 	</description>
     <releaseNotes>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Directory_Opus_12.htm</releaseNotes>  
   </metadata>

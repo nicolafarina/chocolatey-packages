@@ -13,9 +13,9 @@ $packageArgs = @{
 
   softwareName  = 'Comfort Clipboard Pro'
 
-  checksum      = '3c5636051025dfc9f5e2540699da5f9c'
+  checksum      = '1f48b2b2b55e0caec93705ac57eeedc6'
   checksumType  = 'md5'
-  checksum64    = '3c5636051025dfc9f5e2540699da5f9c'
+  checksum64    = '1f48b2b2b55e0caec93705ac57eeedc6'
   checksumType64= 'md5'
 
   validExitCodes= @(0, 3010, 1641)
