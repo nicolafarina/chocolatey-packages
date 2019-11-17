@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'EMCO Ping Monitor Free'
 
-  checksum      = '15efb845e0cb687eb97373adf260e5fc'
+  checksum      = 'b87400b884f7b1b6eb97b0cf44c2cf4d'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)
