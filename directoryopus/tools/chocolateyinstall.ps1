@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Directory Opus'
 
-  checksum      = 'c378a5fba3ffd2becddc2a0aad8130fe'
+  checksum      = '6ebb4a29b201635a776d613a508d9d23'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)

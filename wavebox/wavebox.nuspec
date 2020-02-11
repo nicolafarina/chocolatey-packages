@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>wavebox</id>
-    <version>4.11.4</version>
+    <version>10.0.69</version>
     <owners>Nicola Farina</owners>
     <title>Wavebox</title>
     <authors>Bookry Ltd.</authors>
@@ -27,7 +27,10 @@ Setup starts you with a trial version that can be upgrade to perpetual adding a 
 You can [buy here](https://wavebox.io/pricing/).
 	
 ### 32 bit version 
-**Wavebox is not working on 32 bit Windows versions anymore. Only 64 bit releases will be provided.**
+Wavebox is not working on 32 bit Windows versions.
+
+### Wavebox 10 (update from 4.x) 
+**Wavebox 10 is a new version totally rebuilt from scratch, so it has been name "10.x" instead of "5.x". Previous version is not automatically uninstalled, so you can decide yourself to continue using it or remove from your system. There is a migration tool available to move your accounts/settings to the new application. For more information visit (https://kb.wavebox.io/wavebox-10-migration-wizard/). **
 	</description>
     <releaseNotes>https://github.com/wavebox/waveboxapp/releases</releaseNotes>  
   </metadata>

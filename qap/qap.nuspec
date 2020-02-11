@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>qap</id>
-    <version>10.2.1</version>
+    <version>10.3.4</version>
     <owners>Nicola Farina</owners>
     <title>Quick Access Popup</title>
     <authors>Jean Lalonde</authors>

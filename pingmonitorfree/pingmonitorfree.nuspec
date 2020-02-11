@@ -17,7 +17,7 @@
     <summary>Network Connection State Monitoring Tool (free for 5 hosts)</summary>
     <description>A robust ping monitoring tool for automatic checking connection to network hosts. By making regular pings it monitors network connections and notifies you about detected ups/downs. EMCO Ping Monitor also provides connection statistics info, including uptime, outages, failed pings, etc. You can easily extend functionality and configure EMCO Ping Monitor to execute custom commands or launch applications when connections are lost or restored.
 	
-![EMCO Ping Monitor Free screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/ee65f155/pingmonitorfree/screenshot_01.png)
+![EMCO Ping Monitor Free screenshot](https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/94ca83aa/pingmonitorfree/screenshot_01.png)
 	
 [More screenshots](https://emcosoftware.com/ping-monitor/screenshots)
 		

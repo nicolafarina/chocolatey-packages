@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url64      = 'https://github.com/wavebox/waveboxapp/releases/download/v4.11.4/Install_Wavebox_4_11_4_x64.exe'
+$url64      = 'https://download.wavebox.app/core/win/Install%20Wavebox%2010.0.69.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,11 +11,11 @@ $packageArgs = @{
 
   softwareName  = 'Wavebox'
 
-  checksum64    = '7c8362a6ae8ac1e185213d975e9059ef'
+  checksum64    = 'bd12240f42792002a5e2897f8eae7467'
   checksumType64= 'md5'
 
   validExitCodes= @(0, 3010, 1641)
-  silentArgs   = '/quiet'
+  silentArgs   = '--disable-progress --do-not-launch-chrome'
 }
 
 Install-ChocolateyPackage @packageArgs
