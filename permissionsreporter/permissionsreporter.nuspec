@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>permissionsreporter</id>
-    <version>2.9.228.0</version>
+    <version>3.0.301.0</version>
     <owners>Nicola Farina</owners>
     <title>Permissions Reporter</title>
     <authors>Key Metric Software, LLC.</authors>
     <projectUrl>https://www.permissionsreporter.com</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/e3aed681/permissionsreporter/PM-Icon-256x256.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/permissionsreporter/PM-Icon-256x256.png</iconUrl>
     <copyright>Copyright © Key Metric Software, LLC.</copyright>
     <licenseUrl>https://www.permissionsreporter.com/order/faq</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -19,11 +19,14 @@
 	
 You need a visual, interactive software tool to help you manage file system permissions. You need Permissions Reporter - the ultimate network-enabled NTFS permissions reporter for Windows. It allows you to validate the security posture of entire file systems quickly and efficiently. All with multiple export formats, command-line support, built-in scheduling, advanced filtering, and much more.
 	
-![Permissions Reporter screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/e3aed681/permissionsreporter/screenshot_01.png)
+![Permissions Reporter screenshot](https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/permissionsreporter/screenshot_01.png)
 	
 [More screenshots](https://www.permissionsreporter.com/screens)
 	
-###New versions possible checksums error (no panic)
+### 32 bit version 
+Permissions Reporter is not working on 32 bit Windows versions anymore. In this case, please use [old 2.x versions](https://www.permissionsreporter.com/Download/Previous).
+
+### New versions possible checksums error (no panic)
 **Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 </description>
     <releaseNotes>https://www.permissionsreporter.com/support/releasenotes</releaseNotes>  

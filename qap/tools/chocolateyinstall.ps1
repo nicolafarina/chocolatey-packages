@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://www.quickaccesspopup.com/download/archives/quickaccesspopup-setup-10_3_4.exe'
+$url        = 'https://www.quickaccesspopup.com/download/archives/quickaccesspopup-setup-10_4_2.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Quick Access Popup'
 
-  checksum      = 'b667c3d5c365011d88e0bfce85d4834b'
+  checksum      = 'e9c78f6b804535f60b4b38fc0305b1b8'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)

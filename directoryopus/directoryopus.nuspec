@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>directoryopus</id>
-    <version>12.19</version>
+    <version>12.20.20200406</version>
     <owners>Nicola Farina</owners>
     <title>Directory Opus</title>
     <authors>GPSoftware</authors>
     <projectUrl>https://www.gpsoft.com.au/</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/683a9100/directoryopus/DOPUS-Logo-256x256.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/directoryopus/DOPUS-Logo-256x256.png</iconUrl>
     <copyright>Copyright © Jonathan Potter and Dr Greg Perry</copyright>
     <licenseUrl>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Licence.htm</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -17,9 +17,12 @@
     <summary>Directory Opus is an advanced file manager for Windows!</summary>
     <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.
 	
-![Directory Opus](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/8b7d71b9/directoryopus/screenshot_01.png)
+![Directory Opus](https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/directoryopus/screenshot_01.png)
 	
 [More screenshots](https://www.gpsoft.com.au/program/screenshots.html)
+
+### Windows XP support ended
+With 12.20 release, due to installer change, Directory Opus will not install on Windows XP anymore: application can be run installing it on modern systems and then moving files to XP machines.
 	
 ### Commercial software
 Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.

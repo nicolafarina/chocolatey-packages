@@ -11,11 +11,11 @@ $packageArgs = @{
 
   softwareName  = 'Directory Opus'
 
-  checksum      = '6ebb4a29b201635a776d613a508d9d23'
+  checksum      = 'cff6a4b1938d8dd2c900c9f6298185f4'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)
-  silentArgs   = "/s /f1${toolsDir}\install.iss"
+  silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'
 }
 
 Install-ChocolateyPackage @packageArgs

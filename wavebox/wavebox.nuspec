@@ -2,37 +2,39 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>wavebox</id>
-    <version>10.0.69</version>
+    <version>10.0.172</version>
     <owners>Nicola Farina</owners>
     <title>Wavebox</title>
     <authors>Bookry Ltd.</authors>
     <projectUrl>https://wavebox.io</projectUrl>
-    <iconUrl>https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/d783079e/wavebox/Wavebox-Logo-256x256.png</iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/wavebox/Wavebox-Logo-256x256.png</iconUrl>
     <copyright>Copyright © Bookry Ltd.</copyright>
     <licenseUrl>https://wavebox.io/eula/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/wavebox/waveboxapp</projectSourceUrl>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/wavebox</packageSourceUrl>
     <docsUrl>https://wavebox.io/support</docsUrl>
     <tags>wavebox multi webapp chat client messenger whatsapp facebook skype gmail outlook drive office365</tags>
     <summary>A cloud apps aggregator</summary>
     <description>Unlike browser tabs, which work independently, Wavebox brings everything together as a single suite of web apps. For example, you’ll get notified on anything new across all your apps without having to check each tabs individually. You’ll also find it easier maintain context across workflows and stay focused.
 
-![Wavebox screenshot](https://cdn.staticaly.com/gh/nicolafarina/chocolatey-packages/929c3f98/wavebox/screenshot_01.png)
+![Wavebox screenshot](https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/wavebox/screenshot_01.png)
 	
-[More screenshots](https://wavebox.io/why-wavebox/)
+[More screenshots](https://wavebox.io/)
 	
 ### Commercial software 
-Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
-You can [buy here](https://wavebox.io/pricing/).
+Setup starts you with a free/trial version that can be upgraded to "pro subscription" purchasing a license plan.
+You can [check "pro" features and buy here](https://wavebox.io/pricing/).
 	
 ### 32 bit version 
 Wavebox is not working on 32 bit Windows versions.
 
 ### Wavebox 10 (update from 4.x) 
-**Wavebox 10 is a new version totally rebuilt from scratch, so it has been name "10.x" instead of "5.x". Previous version is not automatically uninstalled, so you can decide yourself to continue using it or remove from your system. There is a migration tool available to move your accounts/settings to the new application. For more information visit (https://kb.wavebox.io/wavebox-10-migration-wizard/). **
+**Wavebox 10 is a new version totally rebuilt from scratch, so it has been name "10.x" instead of "5.x". Previous version is not automatically uninstalled, so you can decide yourself to continue using it or remove from your system. There is a migration tool available to move your accounts/settings to the new application. For more information visit (https://kb.wavebox.io/wavebox-10-migration-wizard/).**
+
+### Pro users 
+**Users with active pro subcription plan will be warned about x.x.x.2 release because Wavebox switch to the "pro channel": this is not a real application update but a sort of extended features upgrade. Chocolatey package always updates to the free/trial (x.x.x.1) to avoid confusion among users having more Wavebox packages basically of the same version.**
 	</description>
-    <releaseNotes>https://github.com/wavebox/waveboxapp/releases</releaseNotes>  
+    <releaseNotes>https://blog.wavebox.io/tag/releases/</releaseNotes>  
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
