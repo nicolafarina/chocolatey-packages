@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Quick Access Popup'
 
-  checksum      = 'e9c78f6b804535f60b4b38fc0305b1b8'
+  checksum      = '425e5db64f73b283c7fab9f0ab87a092'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)

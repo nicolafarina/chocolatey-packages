@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>directoryopus</id>
-    <version>12.20.20200406</version>
+    <version>12.20.20200603</version>
     <owners>Nicola Farina</owners>
     <title>Directory Opus</title>
     <authors>GPSoftware</authors>
