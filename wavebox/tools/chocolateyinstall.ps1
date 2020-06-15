@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Wavebox'
 
-  checksum64    = 'd8fc56d2b52af3040a65c8eb479f5e10'
+  checksum64    = '123033c3aba72906483bc52655aeda89'
   checksumType64= 'md5'
 
   validExitCodes= @(0, 3010, 1641)
