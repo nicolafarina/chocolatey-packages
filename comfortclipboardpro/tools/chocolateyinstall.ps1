@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://www.comfort-software.com/download/setup-cc'
+$url        = 'https://www.comfortsoftware.com/download/setup-cc'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Comfort Clipboard Pro'
 
-  checksum      = 'cd3b51f27d878f56527401302604a01e'
+  checksum      = '27ad1d314b202c39a2d2997e5e7ce8a2'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)

@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url64      = 'https://download.wavebox.app/core/win/Install%20Wavebox%2010.0.179.1.exe'
+$url64      = 'https://download.wavebox.app/stable/win/Install%20Wavebox%2010.147.47.2.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Wavebox'
 
-  checksum64    = '123033c3aba72906483bc52655aeda89'
+  checksum64    = '2ef3ac049613ae3622fe856bda73f923'
   checksumType64= 'md5'
 
   validExitCodes= @(0, 3010, 1641)

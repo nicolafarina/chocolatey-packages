@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>pingmonitorfree</id>
-    <version>7.2.2</version>
+    <version>9.2.1</version>
     <owners>Nicola Farina</owners>
     <title>EMCO Ping Monitor Free</title>
     <authors>EMCO Software</authors>
@@ -25,7 +25,7 @@
 **Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 </description>
 	<dependencies>
-      <dependency id="dotnet4.7" version="4.7.2053.0" />
+      <dependency id="dotnetfx" version="4.5.2.0" />
     </dependencies>
     <releaseNotes>https://emcosoftware.com/ping-monitor/whats-new</releaseNotes>  
   </metadata>

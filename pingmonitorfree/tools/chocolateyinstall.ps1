@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://storage.emcosoftware.com/download/pingmonitor/PingMonitorFreeSetup.exe'
+$url        = 'https://storage.emcosoftware.com/download/pingmonitor/PingMonitorSetup.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'EMCO Ping Monitor Free'
 
-  checksum      = 'E716BF22525F56D37FC917A14DD4B608'
+  checksum      = '30fae0633b15296e4facc9248666a972'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)

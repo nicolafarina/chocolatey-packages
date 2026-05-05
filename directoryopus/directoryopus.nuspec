@@ -2,36 +2,36 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>directoryopus</id>
-    <version>12.20.20200603</version>
+    <version>13.22</version>
     <owners>Nicola Farina</owners>
     <title>Directory Opus</title>
     <authors>GPSoftware</authors>
     <projectUrl>https://www.gpsoft.com.au/</projectUrl>
     <iconUrl>https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/directoryopus/DOPUS-Logo-256x256.png</iconUrl>
     <copyright>Copyright © Jonathan Potter and Dr Greg Perry</copyright>
-    <licenseUrl>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Licence.htm</licenseUrl>
+    <licenseUrl>https://docs.dopus.com/doku.php?id=licence:end_user</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
 	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/directoryopus</packageSourceUrl>
-    <docsUrl>https://www.gpsoft.com.au/help/opus12/index.html</docsUrl>
+    <docsUrl>https://docs.dopus.com/doku.php?id=introduction</docsUrl>
     <tags>directoryopus dopus directory opus filemanager fileexplorer file explorer manager trial</tags>
     <summary>Directory Opus is an advanced file manager for Windows!</summary>
     <description>Are you frustrated by the limitations of Windows Explorer? Directory Opus is a complete replacement for Explorer, with far more power and functionality than any other file manager available today.
 	
 ![Directory Opus](https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/directoryopus/screenshot_01.png)
 	
-[More screenshots](https://www.gpsoft.com.au/program/screenshots.html)
+[More screenshots](https://www.gpsoft.com.au/)
 
 ### Windows XP support ended
 With 12.20 release, due to installer change, Directory Opus will not install on Windows XP anymore: application can be run installing it on modern systems and then moving files to XP machines.
 	
 ### Commercial software
-Setup starts you with a trial version that can be upgrade to perpetual adding a purchased license key.
-You can [buy here](https://www.gpsoft.com.au/order_intro.html).
+Setup starts you with a trial version that can be upgraded to perpetual adding a purchased license key.
+You can [buy here](https://www.gpsoft.com.au/).
 		
 ### New versions possible checksums error (no panic)
 **Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
 	</description>
-    <releaseNotes>https://www.gpsoft.com.au/help/opus12/index.html#!Documents/Directory_Opus_12.htm</releaseNotes>  
+    <releaseNotes>https://docs.dopus.com/doku.php?id=release_history</releaseNotes>  
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

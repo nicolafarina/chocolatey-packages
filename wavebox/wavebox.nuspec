@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>wavebox</id>
-    <version>10.0.179</version>
+    <version>10.147.47</version>
     <owners>Nicola Farina</owners>
     <title>Wavebox</title>
     <authors>Bookry Ltd.</authors>
@@ -30,9 +30,6 @@ Wavebox is not working on 32 bit Windows versions.
 
 ### Wavebox 10 (update from 4.x) 
 **Wavebox 10 is a new version totally rebuilt from scratch, so it has been name "10.x" instead of "5.x". Previous version is not automatically uninstalled, so you can decide yourself to continue using it or remove from your system. There is a migration tool available to move your accounts/settings to the new application. For more information visit (https://kb.wavebox.io/wavebox-10-migration-wizard/).**
-
-### Pro users 
-**Users with active pro subcription plan will be warned about x.x.x.2 release because Wavebox switch to the "pro channel": this is not a real application update but a sort of extended features upgrade. Chocolatey package always updates to the free/trial (x.x.x.1) to avoid confusion among users having more Wavebox packages basically of the same version.**
 	</description>
     <releaseNotes>https://blog.wavebox.io/tag/releases/</releaseNotes>  
   </metadata>

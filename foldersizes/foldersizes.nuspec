@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>foldersizes</id>
+    <version>5.2.679.0</version>
+    <owners>Nicola Farina</owners>
+    <title>Permissions Reporter</title>
+    <authors>Key Metric Software, LLC.</authors>
+    <projectUrl>https://www.permissionsreporter.com</projectUrl>
+    <iconUrl>https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/permissionsreporter/PM-Icon-256x256.png</iconUrl>
+    <copyright>Copyright © Key Metric Software, LLC.</copyright>
+    <licenseUrl>https://www.permissionsreporter.com/order/faq</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+	<packageSourceUrl>https://github.com/nicolafarina/chocolatey-packages/tree/master/permissionsreporter</packageSourceUrl>
+    <docsUrl>https://www.permissionsreporter.com/support</docsUrl>
+    <tags>permissionsreporter permissions directory file filesystem system ntfs acl analyzer report reporter</tags>
+    <summary>The NTFS permissions analyzer for Windows</summary>
+    <description>System administrators are constantly being asked to audit user permissions for specific files and folders. This is often a time-consuming task, with multiple layers of NTFS permissions and repeated adjustments over time creating a security labyrinth.
+	
+You need a visual, interactive software tool to help you manage file system permissions. You need Permissions Reporter - the ultimate network-enabled NTFS permissions reporter for Windows. It allows you to validate the security posture of entire file systems quickly and efficiently. All with multiple export formats, command-line support, built-in scheduling, advanced filtering, and much more.
+	
+![Permissions Reporter screenshot](https://cdn.statically.io/gh/nicolafarina/chocolatey-packages/401d100c/permissionsreporter/screenshot_01.png)
+	
+[More screenshots](https://www.permissionsreporter.com/screens)
+	
+### 32 bit version 
+Permissions Reporter is not working on 32 bit Windows versions anymore. In this case, please use [old 2.x versions](https://www.permissionsreporter.com/Download/Previous).
+
+### New versions possible checksums error (no panic)
+**Authors do not provide specific URLs for each version, so the download URL in this package will always download the latest version. Please be patient if you get checksums failure, probably due to lag between official release and new Chocolatey package. I'll try to update as soon as possible, but you can try --ignore-checksums parameter to bypass the error or, better, warn me in comments section here or by opening a GitHub issue. Thank you.**
+</description>
+    <releaseNotes>https://www.permissionsreporter.com/support/releasenotes</releaseNotes>  
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

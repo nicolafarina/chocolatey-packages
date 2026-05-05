@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://apps.steamcore.se/Screamer/Releases/ScreamerSetup.exe'
+$url        = 'https://apps.steamcore.se/Screamer.win-x64/Releases/ScreamerSetup.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Screamer Radio'
 
-  checksum      = '5999f78db6433b0fc87803ff18fbda4b'
+  checksum      = 'ee6f489dc1876e549249e503a7b8fe23'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)

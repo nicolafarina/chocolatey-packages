@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>permissionsreporter</id>
-    <version>3.0.301.0</version>
+    <version>5.2.679.0</version>
     <owners>Nicola Farina</owners>
     <title>Permissions Reporter</title>
     <authors>Key Metric Software, LLC.</authors>

@@ -1,7 +1,7 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://f000.backblazeb2.com/file/KeyMetricSoft/PermissionsReporter/pr-setup.exe'
+$url        = 'https://www.permissionsreporter.com/Content/download/pr-setup.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -11,7 +11,7 @@ $packageArgs = @{
 
   softwareName  = 'Permissions Reporter'
 
-  checksum      = '7e35266afc3b6e0f80f7dd46ebb034db'
+  checksum      = 'bf3cd8c92a2a889012dcb395ae45c460'
   checksumType  = 'md5'
 
   validExitCodes= @(0, 3010, 1641)
